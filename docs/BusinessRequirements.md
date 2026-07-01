@@ -9,7 +9,7 @@ Commercial real estate organizations manage thousands of buildings across multip
 
 Due to inconsistent data formats, manual reporting processes, and limited visibility into key performance indicators, management faces challenges in identifying cost optimization opportunities and making data-driven decisions.
 
-This platform provides a centralized Business Intelligence solution that automates data integration, validation, analysis, benchmarking, and reporting.
+This platform provides a centralized Business Intelligence solution that automates data integration, validation, analysis, benchmarking, and reporting. 
 
 ---
 
