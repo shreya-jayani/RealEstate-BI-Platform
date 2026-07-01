@@ -1,5 +1,13 @@
 # DimBuilding
 
+## Business Rules
+
+- Building names must be unique within a customer portfolio.
+- ConstructionYear must be between 1950 and the current year.
+- GrossAreaSqm must be greater than NetAreaSqm.
+- EnergyRating must be one of: A+, A, B, C, D, E, F, G.
+- Active buildings must have a valid LocationID and CustomerID.
+
 ## Description
 
 Stores static information about every commercial building.
