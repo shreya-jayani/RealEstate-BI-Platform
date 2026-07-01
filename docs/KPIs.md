@@ -11,7 +11,7 @@
 
 ---
 
-## Energy KPIs
+## Energy KPIs 
 
 - Electricity Consumption
 - Gas Consumption
