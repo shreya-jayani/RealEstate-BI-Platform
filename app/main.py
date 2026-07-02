@@ -1,7 +1,7 @@
 from app.generators.generate_date import generate_date
 from app.generators.generate_location import generate_location
 from app.generators.generate_building_type import generate_building_type
-
+from app.generators.generate_energy_source import generate_energy_source
 
 def main():
 
@@ -14,6 +14,7 @@ def main():
     generate_date()
     generate_location()
     generate_building_type()
+    generate_energy_source()
 
     print("\nSprint 1 - Milestone 3 completed successfully!")
 

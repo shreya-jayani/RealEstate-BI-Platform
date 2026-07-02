@@ -1,0 +1,9 @@
+EnergySourceID,EnergySource,Renewable,CO2Factor,TypicalCostPerkWh
+1,Electricity,No,0.401,0.35
+2,Natural Gas,No,0.202,0.12
+3,District Heating,No,0.180,0.15
+4,Solar,Yes,0.000,0.05
+5,Wind Power,Yes,0.000,0.08
+6,Hydropower,Yes,0.000,0.09
+7,Biomass,Yes,0.030,0.11
+8,Geothermal,Yes,0.020,0.13
