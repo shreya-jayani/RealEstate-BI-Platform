@@ -1,0 +1,11 @@
+BuildingTypeID,BuildingType,TypicalFloors,TypicalArea,ExpectedLifespan
+1,Office,8,12000,60
+2,Hospital,12,30000,70
+3,Retail Store,2,5000,40
+4,Shopping Mall,4,45000,50
+5,Warehouse,1,18000,45
+6,University,6,25000,80
+7,School,3,9000,60
+8,Hotel,10,22000,55
+9,Airport Terminal,5,80000,70
+10,Industrial Plant,3,60000,65

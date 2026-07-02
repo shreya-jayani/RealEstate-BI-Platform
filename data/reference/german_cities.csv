@@ -1,0 +1,16 @@
+LocationID,City,State,PostalCode,Latitude,Longitude,Population,ClimateZone,AverageTemperature,AverageRainfall
+1,Berlin,Berlin,10115,52.5200,13.4050,3769000,Continental,10.5,570
+2,Hamburg,Hamburg,20095,53.5511,9.9937,1899000,Maritime,9.7,770
+3,Munich,Bayern,80331,48.1351,11.5820,1488000,Continental,9.5,960
+4,Cologne,Nordrhein-Westfalen,50667,50.9375,6.9603,1086000,Moderate,10.6,800
+5,Frankfurt am Main,Hessen,60311,50.1109,8.6821,775000,Moderate,10.7,630
+6,Stuttgart,Baden-Württemberg,70173,48.7758,9.1829,635000,Moderate,10.4,700
+7,Düsseldorf,Nordrhein-Westfalen,40213,51.2277,6.7735,620000,Moderate,10.8,790
+8,Leipzig,Sachsen,04109,51.3397,12.3731,610000,Continental,9.8,570
+9,Dortmund,Nordrhein-Westfalen,44135,51.5136,7.4653,595000,Moderate,10.3,800
+10,Essen,Nordrhein-Westfalen,45127,51.4556,7.0116,582000,Moderate,10.4,830
+11,Darmstadt,Hessen,64283,49.8728,8.6512,165000,Moderate,10.8,650
+12,Wiesbaden,Hessen,65183,50.0826,8.2400,283000,Moderate,10.9,640
+13,Mainz,Rheinland-Pfalz,55116,49.9929,8.2473,220000,Moderate,10.8,620
+14,Karlsruhe,Baden-Württemberg,76133,49.0069,8.4037,310000,Moderate,10.9,710
+15,Mannheim,Baden-Württemberg,68159,49.4875,8.4660,315000,Moderate,10.9,680
