@@ -12,16 +12,16 @@ This project simulates an enterprise-grade BI environment by generating realisti
 ![Executive Dashboard](powerbi/screenshots/01_Executive_Dashboard.png)
 
 ## Financial Analytics
-![Financial Analytics](screenshots/02_Financial_Analytics.png)
+![Financial Analytics](powerbi/screenshots/02_Financial_Analytics.png)
 
 ## Building Portfolio Analytics
-![Building Analytics](screenshots/03_Building_Analytics.png)
+![Building Analytics](powerbi/screenshots/03_Building_Analytics.png)
 
 ## Sustainability Dashboard
-![Sustainability](screenshots/04_Sustainability.png)
+![Sustainability](powerbi/screenshots/04_Sustainability.png)
 
 ## Customer Analytics
-![Customer Analytics](screenshots/05_Customer_Analytics.png)
+![Customer Analytics](powerbi/screenshots/05_Customer_Analytics.png)
 
 ---
 
