@@ -9,7 +9,7 @@ This project simulates an enterprise-grade BI environment by generating realisti
 # Dashboard Preview
 
 ## Executive Dashboard
-![Executive Dashboard](screenshots/01_Executive_Dashboard.png)
+![Executive Dashboard](powerbi/screenshots/01_Executive_Dashboard.png)
 
 ## Financial Analytics
 ![Financial Analytics](screenshots/02_Financial_Analytics.png)
